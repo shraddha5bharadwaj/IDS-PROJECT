@@ -16,7 +16,6 @@ Event - Event
 Medal - Gold, Silver, Bronze, or NA
 
 The Dataset has 15 different columns, and a whole 271116 rows.
-
 Each row corresponds to an individual athlete competing in an individual Olympic event (athlete-events)
 
 ANALYSIS:
