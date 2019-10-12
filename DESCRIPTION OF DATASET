@@ -14,3 +14,13 @@ City - Host city
 Sport - Sport
 Event - Event
 Medal - Gold, Silver, Bronze, or NA
+
+The Dataset has 15 different columns, and a whole 271116 rows.
+
+Each row corresponds to an individual athlete competing in an individual Olympic event (athlete-events)
+
+ANALYSIS:
+How the Olympics have evolved over time.
+Participation and performance of women in different events.
+Performance of different nations across different sports.
+Performance trend of a country over time.
