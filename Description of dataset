@@ -1,0 +1,30 @@
+
+ATTRIBUTES OF DATA SET
+ID - Unique number for each athlete
+Name - Athlete's name
+Sex - M or F
+Age - Integer
+Height - In centimeters
+Weight - In kilograms
+Team - Team name
+NOC - National Olympic Committee 3-letter code
+Games - Year and season
+Year - Integer
+Season - Summer or Winter
+City - Host city
+Sport - Sport
+Event - Event
+Medal - Gold, Silver, Bronze, or NA
+
+The Dataset has 15 different columns, and a whole 271116 rows.
+Each row corresponds to an individual athlete competing in an individual Olympic event (athlete-events)
+
+ANALYSIS:
+How the Olympics have evolved over time.
+Participation and performance of women in different events.
+Performance of different nations across different sports.
+Performance trend of a country over time.
+The answers to these questions give us a path to identify what it takes to build a winning DNA for each country in Olympics.
+
+LINK: https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
+
